@@ -1,3 +1,4 @@
-study
-work
-clean
+Go grocery shopping
+Schedule a doctor's appointment
+Do laundry
+Pay rent
